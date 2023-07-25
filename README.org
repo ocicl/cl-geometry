@@ -1,0 +1,10 @@
+* cl-geometry
+
+Common Lisp package for simple two dimensional computational geometry.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/vydd/cl-geometry.git   |
+| commit  | 24edded  |
+| systems | cl-geometry |
+|---------+-------------------------------------------|
+
